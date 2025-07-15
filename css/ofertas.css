@@ -1,0 +1,1 @@
+@keyframes rainbow{0%{background-position:0 50%}to{background-position:100% 50%}}.rainbow-border{background:linear-gradient(270deg,red,orange,#ff0,green,#0ff,#00f,violet,red);background-size:400% 400%;animation:rainbow 8s linear infinite;padding:4px;border-radius:1rem}
